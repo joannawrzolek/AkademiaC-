@@ -1,0 +1,6 @@
+c:\Users\Joanka\documents\visual studio 2015\Projects\akademia\akademia3\bin\Debug\akademia3.exe.config
+c:\Users\Joanka\documents\visual studio 2015\Projects\akademia\akademia3\bin\Debug\akademia3.exe
+c:\Users\Joanka\documents\visual studio 2015\Projects\akademia\akademia3\bin\Debug\akademia3.pdb
+c:\Users\Joanka\documents\visual studio 2015\Projects\akademia\akademia3\obj\Debug\akademia3.csprojResolveAssemblyReference.cache
+c:\Users\Joanka\documents\visual studio 2015\Projects\akademia\akademia3\obj\Debug\akademia3.exe
+c:\Users\Joanka\documents\visual studio 2015\Projects\akademia\akademia3\obj\Debug\akademia3.pdb

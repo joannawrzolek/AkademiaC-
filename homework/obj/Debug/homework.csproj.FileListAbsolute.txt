@@ -1,0 +1,9 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\akademia\homework\bin\Debug\homework.exe.config
+C:\Users\Joanka\documents\visual studio 2015\Projects\akademia\homework\bin\Debug\homework.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\akademia\homework\bin\Debug\homework.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\akademia\homework\obj\Debug\homework.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\akademia\homework\obj\Debug\homework.exe
+C:\Users\Joanka\documents\visual studio 2015\Projects\akademia\homework\obj\Debug\homework.pdb
+D:\Projekty\akademia\homework\bin\Debug\homework.exe.config
+D:\Projekty\akademia\homework\obj\Debug\homework.exe
+D:\Projekty\akademia\homework\obj\Debug\homework.pdb
